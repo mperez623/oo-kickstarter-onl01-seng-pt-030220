@@ -2,7 +2,7 @@ class Project
   
   attr_reader :title
   
-  def initialize(name)
+  def initialize(title)
     @title = title
   end
   
